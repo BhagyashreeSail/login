@@ -1,0 +1,24 @@
+.headline  {
+    margin-top: 1em;
+    color: rgb(177, 176, 176);
+}
+.facebook{
+    background-color: #4267B2;
+    border-radius: 5%;
+    margin-right: 5%;
+}
+.gmail{
+    background-color: #D44638;
+    border-radius: 5%;
+}
+.margn{
+    margin-left: 6%;
+}
+.or{
+    margin-top: 1em;
+    /* text-align: center; */
+    margin-left: 40%;
+}
+.parttwo{
+    background-image: url("https://cdn1.vectorstock.com/i/1000x1000/13/40/geometric-pink-texture-background-vector-21931340.jpg");
+}
